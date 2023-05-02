@@ -15,11 +15,4 @@ Orientado a brindar soporte a los estudiantes de la universidad que requieran me
 - Interfaz de voz para asignacion de tareas
 - Guia de usuario
 - Contará con imágenes de referencia 
-
-## Technologies Used
-
-The website was built using the following technologies:
-
-- HTML5
-- CSS
-- JavaScript
+- Interface amigable con los usuarios
