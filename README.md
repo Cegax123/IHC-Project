@@ -1,21 +1,25 @@
-# My Web Design Project
+# IHC-project
 
-## Description
+## Integrantes
+- Rojas Huaroc, Luis Antonio
+- Soto Ortega, Emanuel Enrique
+- Ulloa Vega, Ricardo Andre
 
-In this project, we have designed a responsive website for a fictional company that sells handmade jewelry. The website includes a homepage, a product page, an about page, and a contact page. The design is minimalist and elegant, with a focus on showcasing the beauty of the jewelry.
+
+## Tema a desarrollar 
+Una aplicacion diseñada para interactuar entre universitarios de la UNI (Universidad Nacional de Ingenieria) los cuales brindan servicios de asesoría académica online .
+Orientado a brindar soporte a los estudiantes de la universidad que requieran mejorar sus destrezas, absolver dudas en diferentes temas de cursos específicos. 
+
+## Características
+- Registro de usuario e Inicio de sesión.
+- Interfaz de voz para asignacion de tareas
+- Guia de usuario
+- Contará con imágenes de referencia 
 
 ## Technologies Used
 
 The website was built using the following technologies:
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
-- Bootstrap 5
-
-## Features
-
-- Responsive design that adapts to different screen sizes
-- Smooth scrolling navigation
-- Interactive image galleries on the product page
-- Contact form with validation and error handling
